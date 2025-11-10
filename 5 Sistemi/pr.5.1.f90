@@ -25,7 +25,7 @@ program gauss_elimination
 
     A = reshape([ 2.0d0,  1.0d0, -1.0d0, &
                  -3.0d0, -1.0d0,  2.0d0, &
-                 -2.0d0,  1.0d0,  2.0d0 ], shape(A))
+                 -2.0d0,  1.0d0,  2.0d0 ], shape(A), order=[2,1])
 
     b = [ 8.0d0, -11.0d0, -3.0d0 ]
 
