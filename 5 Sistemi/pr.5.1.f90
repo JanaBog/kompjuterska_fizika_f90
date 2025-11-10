@@ -30,7 +30,7 @@ program gauss_elimination
     b = [ 8.0d0, -11.0d0, -3.0d0 ]
 
     print *, "------------------------------------------"
-    print *, "Почетна матрица [A|b]:"
+    print *, "Pochetna matrica [A|b]:"
     do i = 1, n
         print '(3f10.3,2x,f10.3)', A(i,1:n), b(i)
     end do
