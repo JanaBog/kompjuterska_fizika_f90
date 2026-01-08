@@ -3,4 +3,4 @@
 
 Прирачник за Fortran90 (на англиски): https://levich.ccny.cuny.edu/koplik/molecular_simulation/138fortran90.pdf
 
-Стара верзија на скриптата: [https://drive.google.com/file/d/1ovqUmnPQhl1HiGtxgfCpUN2Vnp_Z5z-d/view?usp=sharing](https://drive.google.com/file/d/1ovqUmnPQhl1HiGtxgfCpUN2Vnp_Z5z-d/view?usp=sharing)
+Скрипта + Numerical Recipes: https://drive.google.com/drive/folders/19a9s0pD53sCLfUAKGe-C8uXuKA2k5SFX?usp=sharing 
